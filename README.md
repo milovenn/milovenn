@@ -1,16 +1,13 @@
-## Hi there 👋
+# Milo Venn
 
-<!--
-**milovenn/milovenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building useful software and automations.
 
-Here are some ideas to get you started:
+Currently focused on:
+- workflow automation
+- API integrations
+- small internal tools
+- practical AI-assisted software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+More coming soon.
