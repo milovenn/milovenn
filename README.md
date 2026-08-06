@@ -10,4 +10,8 @@ Currently focused on:
 
 ## Projects
 
-More coming soon.
+### [LeadFlow](https://github.com/milovenn/leadflow)
+
+Production-style lead intake automation built with n8n, Google Sheets and Discord.
+
+Validates incoming leads, detects duplicates, calculates priority, routes notifications and logs execution outcomes.
