@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./assets/milo-venn-banner.svg" alt="Milo Venn banner" width="1200">
-
-# Milo Venn
-
-**Projects in workflow automation, API integrations, and small internal tools.**
+<h1><img src="./assets/milo-venn-banner.svg" alt="Milo Venn. Projects in workflow automation, API integrations, and small internal tools." width="1200"></h1>
 
 [![GitHub project portfolio](https://img.shields.io/badge/GitHub-Portfolio-6366f1?style=for-the-badge&labelColor=18181b&logo=github&logoColor=white)](#-projects)
 [![MIT License](https://img.shields.io/badge/License-MIT-6366f1?style=for-the-badge&labelColor=18181b)](./LICENSE)
