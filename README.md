@@ -15,4 +15,3 @@
 - [API Data Pipeline](https://github.com/milovenn/api-data-pipeline) cleans paginated REST API data and updates Google Sheets rows by ID.
 - [AI Invoice Automation](https://github.com/milovenn/Ai-invoice-automation) extracts invoice fields from Gmail PDF attachments and queues exceptions for review.
 - [n8n Migration Tool](https://github.com/milovenn/n8n-migration-tool) builds n8n drafts and migration reports from Make blueprints and Zapier inventories.
-- [ProposalPilot](https://github.com/milovenn/proposal-analyzer) is an early Next.js preview of a freelance opportunity and proposal workspace.
